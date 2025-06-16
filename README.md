@@ -1,8 +1,4 @@
-Here is a complete `README.md` for your **PyTorch-based GAN Music Generator** project, tailored to your setup and compatible with **Python 3.13**:
 
----
-
-```markdown
 # 🎶 AI Music Generator with PyTorch (Python 3.13 Compatible)
 
 This project implements a simple AI-based music generator using **PyTorch** and your own **MIDI files**. It simulates a GAN-like architecture to generate new music sequences based on patterns learned from BTS MIDI songs.
